@@ -23,7 +23,7 @@
           <div class="port_info">
             <carousel class="carousel" :paginationEnabled="false" :autoplay="true" :autoplayTimeout="3000" :per-page="1" :loop="true" :navigationEnabled="true" minSwipeDistance="8">
               <slide>
-                <img class="portfolio_pic" src="../assets/web snippet.png" alt="eventer">
+                <img class="portfolio_pic" src="../assets/web_snippet.png" alt="eventer">
               </slide>
               <slide>
                 <img class="portfolio_pic" src="../assets/eventer_dashboard.png" alt="eventer">
