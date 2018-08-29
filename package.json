@@ -64,6 +64,6 @@
     "last 2 versions",
     "not ie <= 8"
   ],
-  "proxy": "http://localhost:3005",
+  "proxy": "http://localhost:3006",
   "main": "./server/server.js"
 }
