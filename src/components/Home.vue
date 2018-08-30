@@ -38,7 +38,7 @@
                 <h3 class="port_sub">Personally developed</h3>
               </div>
               <p class="proj_description">
-                Eventer is a social media app built in React that allows users to connect with their friends and plan hangouts.  Each user can view/edit their profile information and friends list.  Upon the creation of an event by a user they are prompted to invite friends and can view the event.  The event viewer page allows them to search nearby food and entertainment, while simultaneously chatting with friends who are part of the event.  
+                Eventer is a social media app built in React that allows users to connect with their friends and plan hangouts.  Each user can view/edit their profile information and friends list.  Upon the creation of an event by a user, they are prompted to invite friends and can view the event.  The event viewer page allows them to search nearby food and entertainment, while simultaneously chatting with friends who are part of the event.  
               </p>
               <div>
                 <a href="https://eventer.network/#/" class="portfolio_buttons">LIVE SITE</a>
@@ -96,7 +96,7 @@
       <div class="about_for_fun">
         <p class="personal_info">
           When I'm not coding I enjoy doing all kinds of outdoor activities.  I grew up in Utah and have hiked just about every nearby mountain you can name.
-          I also enjoy climbing, mountain biking, kayaking, backpacking, camping, and longboarding.  In college I majored in Economics with an emphasis in data 
+          I also enjoy climbing, mountain biking, kayaking, backpacking, camping, and longboarding.  In college, I majored in Economics with an emphasis in data 
           analytics.  
         </p>
       </div>
