@@ -75,7 +75,7 @@
               </p>
               <div>
                 <a href="https://toolshare.pro/#/" class="portfolio_buttons">LIVE SITE</a>
-                <a href="https://github.com/michaeljamie/tool-share" class="portfolio_buttons">GITHUB REPO</a>
+                <a href="https://github.com/samabu/tool-share" class="portfolio_buttons">GITHUB REPO</a>
               </div>
             </div>
           </div>
